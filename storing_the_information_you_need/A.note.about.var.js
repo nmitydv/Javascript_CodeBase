@@ -5,5 +5,4 @@ function logname (){
 }
 
 logname();
-
 var name; 
