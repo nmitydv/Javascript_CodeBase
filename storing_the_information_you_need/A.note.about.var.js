@@ -1,4 +1,5 @@
 name = "namit";
+
 function logname (){
     console.log(name);
 }
