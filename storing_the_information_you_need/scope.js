@@ -7,6 +7,6 @@ function foo(){
     }
     bar();
     console.log(x);
-    // console.log(y);
+    console.log(y);
 }
 foo();
