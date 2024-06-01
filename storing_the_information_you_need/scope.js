@@ -10,3 +10,5 @@ function foo(){
     console.log(y);
 }
 foo();
+
+ 
